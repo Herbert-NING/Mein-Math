@@ -1,14 +1,27 @@
-# Mein-Math
+# Mein-Math  
 
-TODO LIST:
+GONGING TO FOR INSTANCE:
+Go on the disvrete-math  
+Finished the proof and the chapter "The axiom of choice"  
+Set up for Galois Theory  
+
+TODO LIST:  
 Notes for SQL(un)  
 Notes for Analysis(un)  
-Notes for disvrete-math
-Notes for Naive Set Theory
+Notes for disvrete-math  
+Notes for Naive Set Theory  
 Notes for Galois Theory  
+Add my personal Collections
 
-FINISIED LIST:
-notes for git.
+TO SIMPLIFY LIST:  
+Notes for Git.  
+Notes for Naive Set Thoery.  
+
+FINISIED LIST:  
+notes for git.  
+
+ENDLICH LIST:  
+KEINSE  
 
 ---
 
