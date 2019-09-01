@@ -108,8 +108,29 @@ NING
 |\grave{x}|$\grave{x}$|\breve{x}|$\breve{x}$|\dot{x}|$\dot{x}$|
 |\ddot{x}|$\ddot{x}$|\hat{x}|$\hat{x}$|\tilde{x}|$\tilde{x}$|
 
-**二元运算符**:
-TODO:不知道怎么分类
+**运算符**:
+| 效果 | 语法          | 效果 | 语法            | 效果 | 语法          |
+| ---- | --------------- | ---- | ----------------- | ---- | --------------- |
+| $+$   | +               | $-$   | -                 |      |                 |
+| $\pm$   | \pm             | $\mp$   | \mp               | $\triangleleft$   | \triangleleft   |
+| $\cdot$   |  \cdot          | $\div$   | \div              | $\triangleright$   | \triangleright  |
+| $\times$   | \times          | $\setminus$   | \setminus         | $\star$   | \star           |
+| $\cup$   | \cup            | $\cap$   |  \cap             | $\ast$   |  \ast           |
+| $\sqcup$   | \sqcup          | $\sqcap$   |  \sqcap           | $\circ$   | \circ           |
+| $\vee$   | \vee , \lor     | $\wedge$   | \wedge , \land    | $\bullet$   | \bullet         |
+| $\oplus$   |  \oplus         | $\ominus$   |  \ominus          | $\diamond$   |  \diamond       |
+| $\odot$   |  \odot          | $\oslash$   | \oslash           | $\uplus$   | \uplus          |
+| $\otimes$   | \otimes         | $\bigcirc$   | \bigcirc          | $\amalg$   | \amalg          |
+| $\bigtriangleup$   | \bigtriangleup  | $\bigtriangledown$   | \bigtriangledown  | $\dagger$   |  \dagger        |
+| $\lhd$   | \lhd            | $\rhd$   |  \rhd             | $\ddagger$   | \ddagger        |
+| $\unlhd$   | \unlhd          | $\unrhd$   |  \unrhd           | $\wr$   | \wr             |
+|      |                 |      |                   |      |                 |
+| $\sum$   | \sum            | $\bigcup$   |  \bigcup          | $\bigvee$   |  \bigvee        |
+| $\prod$   | \prod           | $\bigcap$   |  \bigcap          | $\bigwedge$   |  \bigwedge      |
+| $\coprod$   | \coprod         | $\bigsqcup$   |  \bigsqcup        |      |                 |
+| $\int$   | \int            | $\oint$   | \oint             |      |                 |
+| $\bigoplus$   | \bigoplus       | $\bigotimes$   |  \bigotimes       | $\bigodot$   | \bigodot        |
+| $\biguplus$   | \biguplus       |      |                   |      |                 |
 
 #### 8.3.2 希腊字母
 
@@ -252,6 +273,13 @@ $\sin \sinh \sup \tan \tanh$
 |  $\curvearrowleft$    |  \curvearrowleft     |   $\curvearrowright$   |  \curvearrowright     |      |                        |
 |   $\circlearrowleft$   |  \circlearrowleft    |   $ \circlearrowright$   |  \circlearrowright    |      |                        |
 
+#### 8.3.8 其他符号
 
+TODO:
 
+**同余**:
+
+|语法|效果|语法|效果|
+| :-: | :-: | :-: | :-: |
+|\pmod{m}|$\pmod{m}$|a \bmod b| $a\bmod b$|
 .

@@ -12,6 +12,7 @@ Notes for disvrete-math
 Notes for Naive Set Theory  
 Notes for Galois Theory  
 Add my personal Collections
+Notes for LaTeX 
 
 TO SIMPLIFY LIST:  
 Notes for Git.  
@@ -22,6 +23,14 @@ notes for git.
 
 ENDLICH LIST:  
 KEINSE  
+
+Modes for Commit:
+
+ESTABLISH:
+
+UPDATE:
+
+FINISHED:
 
 ---
 
