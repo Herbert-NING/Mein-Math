@@ -1,9 +1,10 @@
 # Mein-Math  
 
-GONGING TO FOR INSTANCE:
+GONGING TO FOR INSTANCE:  
 Go on the disvrete-math  
 Finished the proof and the chapter "The axiom of choice"  
 Set up for Galois Theory  
+Go on the Latex  
 
 TODO LIST:  
 Notes for SQL(un)  
@@ -11,8 +12,8 @@ Notes for Analysis(un)
 Notes for disvrete-math  
 Notes for Naive Set Theory  
 Notes for Galois Theory  
-Add my personal Collections
-Notes for LaTeX 
+Add my personal Collections about NOTE and WEBSEITE FOR BOOK  
+Notes for LaTeX  
 
 TO SIMPLIFY LIST:  
 Notes for Git.  
@@ -24,13 +25,17 @@ notes for git.
 ENDLICH LIST:  
 KEINSE  
 
-Modes for Commit:
+>Modes for Commit:
+>
+>ESTABLISH:
+>
+>UPDATE:
+>
+>FINISHED:
 
-ESTABLISH:
+---
 
-UPDATE:
-
-FINISHED:
+And I have just fonud that no formular can be showed in Github. Maybe download and run is necessary
 
 ---
 
